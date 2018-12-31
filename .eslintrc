@@ -1,0 +1,17 @@
+{
+  "extends": [
+    "airbnb"
+  ],
+  "plugins": [
+  ],
+  "rules": {
+    "semi": [2, "never"],
+    "no-unexpected-multiline": 2,
+    "max-len": ["warn", 120]
+  },
+  "env":{
+    "jest": true,
+    "jasmine": true,
+    "browser": true
+  }
+}
