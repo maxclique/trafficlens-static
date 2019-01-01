@@ -50,7 +50,7 @@ class Header extends React.Component<Props, {}> {
           <div className={classes.grow} />
           <div className={classes.sectionDesktop}>
             <Button color="inherit" component={Link} to="/">Home</Button>
-            <Button color="inherit" color="primary" href="https://app.trafficlens.io/">Sign In</Button>
+            <Button color="inherit" color="primary" href="https://app.trafficlens.io/sign-in">Sign In</Button>
           </div>
         </Toolbar>
       </AppBar>
