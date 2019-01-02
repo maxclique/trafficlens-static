@@ -99,7 +99,7 @@ const PlansGrid = (props: Props) => {
               }
             </CardContent>
             <CardActions>
-              <Button fullWidth variant={buttonVariant} color="primary" href="https://app.trafficlens.io/sign-up">
+              <Button fullWidth variant={buttonVariant} color="primary" href="https://app.trafficlens.io/register">
                 Select {name}
               </Button>
             </CardActions>
